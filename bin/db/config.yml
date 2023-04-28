@@ -1,0 +1,11 @@
+server:
+  host: "localhost"
+  port: 80
+  secretServerKey: WM
+
+database: 
+  host: "localhost"
+  port: 5432
+  databaseName: work_rh
+  username: postgres
+  useSSL: false
